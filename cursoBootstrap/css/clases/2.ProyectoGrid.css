@@ -1,0 +1,43 @@
+/* Cuerpo de la estructura */
+body {
+    background: #f0f3f3;
+    color: #fff;
+}
+
+/* Header */
+header{
+    background: #4EBB43;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Main */
+main {
+    background: white;
+    color: #4d5061;
+    padding: 20px ;
+}
+
+/* Aside */
+aside{
+    background: #D4E1E1;
+    color: #609292;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Columnas */
+.fila > div {
+    background: #53ADB6;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Footer */
+footer {
+    background: #464E4F;
+    color: white;
+    padding: 10px;
+}

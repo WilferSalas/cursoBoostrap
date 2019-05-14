@@ -1,0 +1,123 @@
+/* Tipos de clases  */
+.contenedor {
+    background: #DCDADA;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.fila {
+    background: #e8e8e8;
+    height: 150px;
+    margin: 10px;
+    border: 1px solid #4d5061;
+}
+.columna {
+    background: #f2f2f2;
+    padding: 10px;
+    border: 1px solid #4d5061;
+    margin: 30px 10px 10px 10px;
+}
+.texto {
+    margin: 5px 0 0 5px ;
+}
+
+
+/* Tamaños de las columnas */
+.colxl{
+    height: 100%;
+    width: 25%;
+    background: #f2f2f2;
+    border: 1px solid #4d5061;
+    text-align: center;
+}
+.collg{
+    height: 80%;
+    width: 25%;
+    background: #f2f2f2;
+    border: 1px solid #4d5061;
+    text-align: center;
+}
+.colmd{
+    height: 50%;
+    width: 25%;
+    background: #f2f2f2;
+    border: 1px solid #4d5061;
+    text-align: center;
+}
+.colms{
+    height: 30%;
+    width: 25%;
+    background: #f2f2f2;
+    border: 1px solid #4d5061;
+    text-align: center;
+}
+.colTamaño {
+    background: #f2f2f2;
+    border: 1px solid #4d5061;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+/* Columnas automaticas */
+.filaAuto{
+    background: #e8e8e8;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.colAuto{
+    background: #f2f2f2f2;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #4d5031;
+}
+
+
+/* Alineado de columnas verticales*/
+.Alinearfila {
+    background: #e8e8e8;
+    height: 150px;
+    margin: 20px 0 20px 0;
+}
+.Alinearcolumna {
+    background: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #4d5061;
+}
+
+/* Alineado de columnas horizontales*/
+.AlinearfilaV {
+    background: #e8e8e8;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.AlinearcolV {
+    background: #f2f2f2f2;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #4d5031;
+}
+
+/* Offsetinng */
+
+.filaOff {
+    background: #e8e8e8;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.colOff {
+    background: #f2f2f2f2;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #4d5031;
+}
+
+/* Columnas anidadas */
+.filaAnidada {
+    background: #e8e8e8;
+}
+.colAnidada {
+    background: #f2f2f2;
+    text-align: center;
+    border: 1px solid #4d5061;
+}
